@@ -1,7 +1,7 @@
 ---
 title: About Me
 layout: template
-filename: AboutMe.md
+filename: AboutMe
 ---
 
 # About Me

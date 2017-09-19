@@ -1,7 +1,7 @@
 ---
 title: About Me main
 layout: template
-filename: index.md
+filename: index
 --- 
 # About Me
 
