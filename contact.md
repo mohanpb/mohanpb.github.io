@@ -1,7 +1,7 @@
 ---
 title: Contact Me
 layout: template
-filename: my_contact
+filename: contact
 --- 
 
 # Contact Me
